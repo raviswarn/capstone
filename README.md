@@ -14,3 +14,5 @@ This repo has the information related with the Data Science Capstone Project:
 ## Presentation Slide decks are available on the [RPubs page](http://www.rpubs.com/swarnaravi/416823)
 
 ## ShinyApp is available on the [ShinyApp](https://swarnaravi.shinyapps.io/capstone/)
+
+## [https://swarnaravi.github.io/capstone/](https://swarnaravi.github.io/capstone/)
