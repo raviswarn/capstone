@@ -1,0 +1,12 @@
+name: Capstone
+title: Capstone
+username:
+account: swarnaravi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 420239
+bundleId: 1570574
+url: https://swarnaravi.shinyapps.io/capstone/
+when: 1536148874.79999
+asMultiple: FALSE
+asStatic: FALSE
